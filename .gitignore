@@ -1,0 +1,4 @@
+data/
+lsun/
+.DS_Store
+*.sh
